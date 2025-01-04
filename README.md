@@ -2,7 +2,7 @@
 
 ### LANGUAGE
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OrtM7FfDgFfgOmRqL4R__bU5cjx1ltwy1A&s.png" width="70" height="70">
-<img src="https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.png" width="70" height="70">
+<img src="https://velog.velcdn.com/images/cocoder/post/86fa8f97-d9aa-4f02-98e3-7d8a540f9227/image.png" width="70" height="70">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDv9q_TMRHh7ogcmQaOyA6HZ5eu5DCyExLQ&s.png" width="70" height="70">
 ---
 
