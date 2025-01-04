@@ -2,9 +2,8 @@
 
 ### LANGUAGE
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OrtM7FfDgFfgOmRqL4R__bU5cjx1ltwy1A&s.png" width="70" height="70">
-![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://www.staffworx.co.uk/wp-content/uploads/2020/12/kotlin-logo-3.png" width="70" height="70">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDv9q_TMRHh7ogcmQaOyA6HZ5eu5DCyExLQ&s.png" width="70" height="70">
 ---
 
 
