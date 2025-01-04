@@ -14,5 +14,5 @@
 
 ### My STATS
 ![R1ATNDUD's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1ATNDUD&hide=contribs,prs&show_icons=true&theme=graywhite)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={R1ATNDUD}&theme=blue-white)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ATNDUD&theme=blue-white)
 ---
