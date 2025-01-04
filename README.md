@@ -12,6 +12,6 @@
 ![MonooDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-### My Stats
+### My STATS
 ![R1ATNDUD's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1ATNDUD&hide=contribs,prs&show_icons=true&theme=graywhite)
 ---
